@@ -1,3 +1,3 @@
-C:/CionCPP/cmake-build-debug/CMakeFiles/CionCPP.dir
-C:/CionCPP/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/CionCPP/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/bobry/Desktop/lab2/heisenberg/cmake-build-debug/CMakeFiles/CionCPP.dir
+C:/Users/bobry/Desktop/lab2/heisenberg/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/bobry/Desktop/lab2/heisenberg/cmake-build-debug/CMakeFiles/rebuild_cache.dir

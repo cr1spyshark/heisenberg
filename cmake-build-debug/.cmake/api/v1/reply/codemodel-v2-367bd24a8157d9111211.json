@@ -49,8 +49,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "C:/CionCPP/cmake-build-debug",
-		"source" : "C:/CionCPP"
+		"build" : "C:/Users/bobry/Desktop/lab2/heisenberg/cmake-build-debug",
+		"source" : "C:/Users/bobry/Desktop/lab2/heisenberg"
 	},
 	"version" : 
 	{
