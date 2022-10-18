@@ -1,0 +1,3 @@
+[submodule "sasasa"]
+	path = sasasa
+	url = https://github.com/cr1spyshark/sasasa.git
